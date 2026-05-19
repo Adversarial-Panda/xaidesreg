@@ -1,5 +1,5 @@
 ## XAI-DESReg
-
+[![License](https://img.shields.io/github/license/yzhao062/awesome-ensemble-learning.svg?color=blue)](https://github.com/yzhao062/awesome-ensemble-learning/blob/master/LICENSE)
 
 ### Installation 
 
